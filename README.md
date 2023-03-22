@@ -1,6 +1,6 @@
 "# Manual-Testing-BDSHOP-Project"    
 
-Google Sheet link: 
+Google Sheet link: https://docs.google.com/spreadsheets/d/1d8EuHDP3t37leOvdP09lGAJzGE_chbqDFCSWL_OqaGE/edit?usp=sharing
 
 web application link: https://www.bdshop.com/
 
